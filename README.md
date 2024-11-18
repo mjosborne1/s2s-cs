@@ -14,6 +14,6 @@ Feel free to modify it for your own purposes.
    * `pip install -r requirements.txt`
 
 ### to run 
-    * `cd your-install-folder`
-    * `source .venv/bin/activate`
-    * `python main.py`
+   * `cd your-install-folder`
+   * `source .venv/bin/activate`
+   * `python main.py`
