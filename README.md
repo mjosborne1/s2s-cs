@@ -6,6 +6,7 @@ Feel free to modify it for your own purposes.
 ### preconfiguration
    * Modify the CodeSystem template in ./templates to include the metadata tags for your system
    * Use the Example in ./examples to inform the kind of data file to process in to a CodeSystem
+   * Set up your data folder for in and out or accept the defaults
 
 ### to install 
    * `virtualenv .venv`
