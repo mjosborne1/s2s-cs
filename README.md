@@ -10,7 +10,7 @@ Feel free to modify it for your own purposes.
 
 ### to install 
    * `virtualenv .venv`
-   * `source env/bin/activate`
+   * `source .venv/bin/activate`
    * `pip install -r requirements.txt`
 
 ### to run 
