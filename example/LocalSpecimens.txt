@@ -1,0 +1,9 @@
+Code	Display
+SER	Serum
+FL	Fluid
+URI	Random Urine
+DBS	Blood/Dried blood spot
+SEP	Serum/Plasma
+WB	Whole Blood
+CSF	CSF
+24H	24Hr Urine

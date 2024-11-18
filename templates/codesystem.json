@@ -1,0 +1,14 @@
+{
+    "resourceType": "CodeSystem",
+    "status": "active",
+    "name": "LocalSpecimens",
+    "id": "local-Specimens-1.0.0",
+    "title": "Local Specimens",
+    "description": "The Local Specimens CodeSystem is for demonstration purposes only.",
+    "url": "http://local.example.com/fhir/CodeSystem/local-Specimens",
+    "version": "1.0.0",
+    "experimental": false,
+    "date": "2024-11-30",
+    "publisher": "FHIR Vendor",
+    "content": "complete"
+}
